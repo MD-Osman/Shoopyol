@@ -1,6 +1,8 @@
 # Shoopyol
 
 Unfinished Educational Shopping App - Made with Flutter
+ -Everyone can use the codes contained in the files of this program. (Code Public)
+ -The application name and icon are the private property of the employer. (Name/icon Private)
 
 ## Getting Started
 
