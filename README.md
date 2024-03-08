@@ -1,6 +1,6 @@
-# proje_store
+# Shoopyol
 
-A new Flutter project.
+Imperfect Educational Shopping App - Made with Flutter
 
 ## Getting Started
 
