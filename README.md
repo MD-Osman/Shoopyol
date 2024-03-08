@@ -1,6 +1,6 @@
 # Shoopyol
 
-Imperfect Educational Shopping App - Made with Flutter
+Unfinished Educational Shopping App - Made with Flutter
 
 ## Getting Started
 
