@@ -5,7 +5,7 @@
 - Everyone can use the code contained in the files of this program. **(Code Public)**
 - The application name and icon are the private property of the employer. **(Name/Icon Private)**
 
-![Get Started][(https://github.com/MD-Osman/Shoopyol/blob/master/checkIn.gif)]
+![Get Started](https://github.com/MD-Osman/Shoopyol/blob/master/checkIn.gif)
 
 ## Getting Started
 
